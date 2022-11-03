@@ -1,0 +1,63 @@
+h1 {
+    color: rgb(14, 13, 13);
+}
+
+.bg-conatiner {
+    background-image: url("https://wallpapershome.com/images/pages/ico_h/22683.jpg");
+    height: 170vh;
+    background-size: cover;
+}
+
+.navbar {
+    float: right;
+}
+
+.navlist {
+    list-style: none;
+}
+
+.net-logo {
+    height: 100px;
+    width: 100px;
+}
+
+.main-container {
+    padding: 20px;
+}
+.cards {
+    height: 150px;
+    margin-top: 15px;
+    margin-right: 15px;
+    text-align: center;
+    border-radius: 10px;
+
+
+}
+.text-one {
+    color: white;
+    font-size: 15px;
+}
+.hr {
+    border: 15px;
+
+}
+
+.main-heading {
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15px;
+    
+}
+
+.get-stated {
+    color: white;
+    background-color: red;
+}
+
+.footer-one {
+    background-color: rgb(77, 75, 75);
+    height: 40vh;
+    color: rgb(44, 42, 39);
+    font-size: 10px;
+}
